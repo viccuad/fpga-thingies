@@ -2,12 +2,12 @@
 
 #code will be here in a while!
 
-A bunch of little hardware designs in synthesis-able VHDL. Designed to implement on a Spartan3
+A bunch of little hardware designs in synthesis-able VHDL. Designed to be implemented on a Spartan3
 FPGA, and done using Xilinx ISE webpack 14.3.
 The vhdl code is intended to be as understandable as possible (e.g., process are written to be as close as the rt diagram, instead of wrapping various components in one process).
 
 notice: most of the code is in Spanish. Make an issue if you want it translated.
-Each design has attached pdfs with the rt diagrams.
+Each design has attached pdfs with handmade rt diagrams.
 
 ## DESIGNS   
 #### Chronometer
@@ -37,5 +37,3 @@ pong video: http://youtu.be/23qtBYbF7Ng
 #### Tron game
 tron video: http://youtu.be/bUlfAbWu3ew
 
-
-See the attached pdfs for the hardware design.
