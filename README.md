@@ -31,7 +31,8 @@ It's done using a PS2 interface (to deserialize the pressing/depressing
 scancodes), a ROM (storing the needed cicles for the counter),  a counter with a
 T flip-flop (the sound generator) and a FSM.
 
-#### Pong Typical all hardware game: you have a ball, and two rackets to play.
+#### Pong
+Typical all hardware game: you have a ball, and two rackets to play.
 The VGA synchronism is made with two counters and combinatorial logic. The movement of the ball is rendered by two counters (horizontal and vertical), and each racket has a counter for its vertical movement. Collisions are made with combinatorial logic. A PS2 keyboard is connected to a PS2 module, the key presses from it are logged by a FSM.
 
 pong video: http://youtu.be/23qtBYbF7Ng
