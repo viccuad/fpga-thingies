@@ -43,5 +43,5 @@ The VGA synchronism is made with two counters and combinatorial logic. A bike mo
 
 tron video: http://youtu.be/bUlfAbWu3ew
 
-#### License 
+## License 
 All the source code present here is under the GPLv3 license. Please see the GPv3License.md attached to this repo for more information.
