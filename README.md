@@ -1,7 +1,5 @@
 # FPGA-THINGIES 
 
-#code will be here in a while!
-
 A bunch of little hardware designs in synthesis-able VHDL. Designed to be
 implemented on a Spartan3 FPGA, and done using Xilinx ISE webpack 14.3. The vhdl
 code is intended to be as understandable as possible (e.g., process are written
